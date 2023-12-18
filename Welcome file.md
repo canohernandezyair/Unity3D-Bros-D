@@ -1,26 +1,12 @@
 
 
 <p align="center">  
-  <h2 align="center">Unity3D- Bros </h2>
+  <h2 align="center">Unity 3D - Game Mario Bros </h2>
 
 <p align="center">  
  Parte 1 de 3 Guia completa de instalacion en el sistema operativo MacOS   
  Instalacion y configuracion de la utilidad Rosseta Software traductor dinámico binario para Mac OS X  &  Xcode IDE entorno de desarollo  por medio de la linea de comandos
 
-</p>  
-    <p align="center">
-    <a href="https://github.com/antz22/ultimate-guide-to-flutter/stargazers" alt="Stars">
-        <img src="https://img.shields.io/github/stars/antz22/ultimate-guide-to-flutter?style=for-the-badge" /></a>
-    <a href="https://github.com/antz22/ultimate-guide-to-flutter/network/members" alt="Forks">
-        <img src="https://img.shields.io/github/forks/antz22/ultimate-guide-to-flutter?style=for-the-badge" /></a>
-    <a href="https://github.com/Solido/awesome-flutter">
-        <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=for-the-badge" />
-    </a>
-    <a href="https://img.shields.io/badge/flutter-2.2-green" alt="Flutter">
-        <img src="https://img.shields.io/badge/flutter-2.2-green?style=for-the-badge" /></a>
-    <a href="https://img.shields.io/badge/dart-2.13-green" alt="Flutter">
-        <img src="https://img.shields.io/badge/dart-2.13-green?style=for-the-badge" /></a>
-  </p>
 
 
 ---
@@ -161,5 +147,5 @@ sudo xcodes update
 - [x] Ahora puedes utilizar las herramientas de línea de comandos de Xcode en tu sistema macOS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDcwNjcyN119
+eyJoaXN0b3J5IjpbODY1MzIwOTcxXX0=
 -->
